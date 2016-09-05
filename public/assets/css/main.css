@@ -1351,3 +1351,6 @@ fieldset[disabled] .btn-link:focus {
 .jumbotron {
 background-size: cover;
 }
+.font-style{
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+}
